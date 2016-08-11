@@ -1,2 +1,2 @@
 # hello-javascript
-testing first commit
+testing second commit
